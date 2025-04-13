@@ -6,7 +6,7 @@ import Buttons from '../buttons/Buttons';
 import SectionProps from '../SectionProps/SectionProps';
 import img1 from './../../assets/img/Group 17.png';
 
-const Section = () => {
+const Center = () => {
   return (
     <>
     <section className='mt-[100px]'>
@@ -56,4 +56,4 @@ const Section = () => {
   )
 }
 
-export default Section
+export default Center
