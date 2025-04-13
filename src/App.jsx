@@ -1,15 +1,15 @@
 import { useState } from 'react'
 import './App.css'
-import Header from './components/header/Header'
 import Section from './components/Section/section'
 import Footer from './components/Footer/Footer'
+import Header from './components/header/Header'
 
 function App() {
 
   return (
     <>
       <header>
-       <Header />
+        <Header />
       </header>
       <main>
         <Section />
