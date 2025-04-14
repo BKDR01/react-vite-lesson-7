@@ -1,18 +1,18 @@
 import { useState } from 'react'
 import './App.css'
-import Section from './components/Section/Center'
-import Footer from './components/Footer/Footer'
 import Header from './components/header/Header'
+import Footer from './components/Footer/Footer'
+import Center from './components/Section/Center'
 
 function App() {
 
   return (
     <>
       <header>
-        <Header />
+       <Header />
       </header>
       <main>
-        <Section />
+        <Center />
       </main>
       <footer>
         <Footer />

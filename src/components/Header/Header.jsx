@@ -4,7 +4,7 @@ import Buttons from '../buttons/Buttons'
 import gril from './../../assets/img/header-pic.png';
 import { FaPlay } from "react-icons/fa";
 
-const Header = () => {
+const Bosh = () => {
   return (
     <>
       <header className='h-[1082px] bg-[#FFF3E4]'>
@@ -33,4 +33,4 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Bosh
