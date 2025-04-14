@@ -2,7 +2,7 @@ import React from 'react'
 import LogoBrands from './../../assets/img/Group 16.png';
 import info1 from './../../assets/img/Group 22.png';
 import info2 from './../../assets/img/Group 23.png';
-import Buttons from '../buttons/Buttons';
+import Buttons from '../Cnopka/Buttons';
 import SectionProps from '../SectionProps/SectionProps';
 import img1 from './../../assets/img/Group 17.png';
 

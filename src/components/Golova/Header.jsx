@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav from '../Nav/Nav'
-import Buttons from '../buttons/Buttons'
+import Buttons from '../Cnopka/Buttons'
 import gril from './../../assets/img/header-pic.png';
 import { FaPlay } from "react-icons/fa";
 

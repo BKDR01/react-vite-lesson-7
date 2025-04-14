@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Header from './components/Golova/Header'
-import Footer from './components/Footer/Footer'
+import Footer from './components/ThisEnd/Footer'
 import Center from './components/Section/Center'
 
 function App() {
